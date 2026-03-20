@@ -3,3 +3,5 @@ My self-taught AI/ML + Governance journey starting March 2026. Daily progress, p
 ## Subheader
 
 Watch tutorial on youtube
+## Local developemnt
+Open index.html in browser
